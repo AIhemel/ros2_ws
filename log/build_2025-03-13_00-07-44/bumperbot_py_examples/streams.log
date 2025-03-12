@@ -1,0 +1,37 @@
+[1.122s] Invoking command in '/home/aihemel/ros2_ws/src/bumperbot_py_examples': PYTHONPATH=/home/aihemel/ros2_ws/build/bumperbot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/aihemel/ros2_ws/build/bumperbot_py_examples/build install --record /home/aihemel/ros2_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed install_data
+[2.107s] running egg_info
+[2.109s] creating ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info
+[2.110s] writing ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/PKG-INFO
+[2.111s] writing dependency_links to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/dependency_links.txt
+[2.111s] writing entry points to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/entry_points.txt
+[2.112s] writing requirements to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/requires.txt
+[2.112s] writing top-level names to ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/top_level.txt
+[2.116s] writing manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[2.123s] reading manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[2.126s] writing manifest file '../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info/SOURCES.txt'
+[2.128s] running build
+[2.130s] running build_py
+[2.130s] creating /home/aihemel/ros2_ws/build/bumperbot_py_examples/build
+[2.131s] creating /home/aihemel/ros2_ws/build/bumperbot_py_examples/build/lib
+[2.131s] creating /home/aihemel/ros2_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples
+[2.131s] copying bumperbot_py_examples/__init__.py -> /home/aihemel/ros2_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples
+[2.132s] copying bumperbot_py_examples/simple_publisher.py -> /home/aihemel/ros2_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples
+[2.132s] running install
+[2.133s] running install_lib
+[2.135s] creating /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples
+[2.136s] copying /home/aihemel/ros2_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples/__init__.py -> /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples
+[2.137s] copying /home/aihemel/ros2_ws/build/bumperbot_py_examples/build/lib/bumperbot_py_examples/simple_publisher.py -> /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples
+[2.138s] byte-compiling /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__init__.py to __init__.cpython-310.pyc
+[2.139s] byte-compiling /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_publisher.py to simple_publisher.cpython-310.pyc
+[2.141s] running install_data
+[2.142s] creating /home/aihemel/ros2_ws/install/bumperbot_py_examples/share/ament_index
+[2.142s] creating /home/aihemel/ros2_ws/install/bumperbot_py_examples/share/ament_index/resource_index
+[2.143s] creating /home/aihemel/ros2_ws/install/bumperbot_py_examples/share/ament_index/resource_index/packages
+[2.143s] copying resource/bumperbot_py_examples -> /home/aihemel/ros2_ws/install/bumperbot_py_examples/share/ament_index/resource_index/packages
+[2.144s] copying package.xml -> /home/aihemel/ros2_ws/install/bumperbot_py_examples/share/bumperbot_py_examples
+[2.144s] running install_egg_info
+[2.152s] Copying ../../build/bumperbot_py_examples/bumperbot_py_examples.egg-info to /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples-0.0.0-py3.10.egg-info
+[2.155s] running install_scripts
+[2.232s] Installing simple_publisher script to /home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[2.232s] writing list of installed files to '/home/aihemel/ros2_ws/build/bumperbot_py_examples/install.log'
+[2.265s] Invoked command in '/home/aihemel/ros2_ws/src/bumperbot_py_examples' returned '0': PYTHONPATH=/home/aihemel/ros2_ws/build/bumperbot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_examples build --build-base /home/aihemel/ros2_ws/build/bumperbot_py_examples/build install --record /home/aihemel/ros2_ws/build/bumperbot_py_examples/install.log --single-version-externally-managed install_data

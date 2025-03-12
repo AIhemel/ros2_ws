@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/aihemel/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/aihemel/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/aihemel/ros2_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/aihemel/ros2_ws/src/ros_tutorials/roscpp_tutorials/listener_async_spin"
+}
