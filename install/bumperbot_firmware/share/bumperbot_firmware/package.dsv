@@ -1,0 +1,5 @@
+source;share/bumperbot_firmware/local_setup.bash
+source;share/bumperbot_firmware/local_setup.dsv
+source;share/bumperbot_firmware/local_setup.ps1
+source;share/bumperbot_firmware/local_setup.sh
+source;share/bumperbot_firmware/local_setup.zsh

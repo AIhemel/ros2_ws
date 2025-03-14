@@ -1,0 +1,9 @@
+[0.524s] Invoking command in '/home/aihemel/ros2_ws/build/robot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_controller -- -j12 -l12
+[0.542s] Built target ament_cmake_python_copy_robot_controller
+[0.850s] running egg_info
+[0.851s] writing robot_controller.egg-info/PKG-INFO
+[0.851s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[0.851s] writing top-level names to robot_controller.egg-info/top_level.txt
+[0.854s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.854s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[0.876s] Built target ament_cmake_python_build_robot_controller_egg

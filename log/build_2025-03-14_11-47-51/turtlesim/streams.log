@@ -1,0 +1,27 @@
+[0.530s] Invoking command in '/home/aihemel/ros2_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/turtlesim -- -j12 -l12
+[0.554s] [  1%] Built target turtlesim__cpp
+[0.555s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.557s] [ 11%] Built target ament_cmake_python_copy_turtlesim
+[0.570s] [ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[0.570s] [ 31%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[0.572s] [ 43%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.573s] [ 52%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.573s] [ 62%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[0.573s] [ 71%] Built target turtlesim__rosidl_typesupport_c
+[0.584s] [ 71%] Built target turtlesim
+[0.591s] [ 75%] Built target mimic
+[0.591s] [ 75%] Built target draw_square
+[0.593s] [ 77%] Built target turtle_teleop_key
+[0.594s] [ 78%] Built target turtlesim__py
+[0.597s] [ 84%] Built target turtlesim_node
+[0.607s] [ 93%] Built target turtlesim__rosidl_generator_py
+[0.617s] [100%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[0.618s] [100%] Built target turtlesim__rosidl_typesupport_c__pyext
+[0.618s] [100%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[0.851s] running egg_info
+[0.852s] writing turtlesim.egg-info/PKG-INFO
+[0.852s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[0.852s] writing top-level names to turtlesim.egg-info/top_level.txt
+[0.857s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.857s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.880s] [100%] Built target ament_cmake_python_build_turtlesim_egg

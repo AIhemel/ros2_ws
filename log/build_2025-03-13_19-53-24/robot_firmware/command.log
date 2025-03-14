@@ -1,0 +1,6 @@
+Invoking command in '/home/aihemel/ros2_ws/build/robot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/aihemel/ros2_ws/src/robot_firmware -DCMAKE_INSTALL_PREFIX=/home/aihemel/ros2_ws/install/robot_firmware
+Invoked command in '/home/aihemel/ros2_ws/build/robot_firmware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/aihemel/ros2_ws/src/robot_firmware -DCMAKE_INSTALL_PREFIX=/home/aihemel/ros2_ws/install/robot_firmware
+Invoking command in '/home/aihemel/ros2_ws/build/robot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_firmware -- -j12 -l12
+Invoked command in '/home/aihemel/ros2_ws/build/robot_firmware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_firmware -- -j12 -l12
+Invoking command in '/home/aihemel/ros2_ws/build/robot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/robot_firmware
+Invoked command in '/home/aihemel/ros2_ws/build/robot_firmware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/robot_firmware

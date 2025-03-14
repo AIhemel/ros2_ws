@@ -1,0 +1,15 @@
+/home/aihemel/ros2_ws/install/robot_firmware/share/ament_index/resource_index/package_run_dependencies/robot_firmware
+/home/aihemel/ros2_ws/install/robot_firmware/share/ament_index/resource_index/parent_prefix_path/robot_firmware
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/ament_prefix_path.sh
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/ament_prefix_path.dsv
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/path.sh
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/path.dsv
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.bash
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.sh
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.zsh
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.dsv
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/package.dsv
+/home/aihemel/ros2_ws/install/robot_firmware/share/ament_index/resource_index/packages/robot_firmware
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/cmake/robot_firmwareConfig.cmake
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/cmake/robot_firmwareConfig-version.cmake
+/home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/package.xml

@@ -18,8 +18,7 @@ def generate_launch_description():
     static_transform_publisher = Node(
         package="tf2_ros",
         executable="static_transform_publisher",
-        arguments=["0", "0", "0.103", "0", "0", "0", "1", "base_footprint_ekf", "imu_link_ekf"],
-
+        arguments=["0", "0", "0.103", "1", "0", "0", "0", "base_footprint_ekf", "imu_link_ekf"],
 
     )
 

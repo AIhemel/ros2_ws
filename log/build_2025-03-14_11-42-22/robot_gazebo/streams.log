@@ -1,0 +1,27 @@
+[0.531s] Invoking command in '/home/aihemel/ros2_ws/build/robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_gazebo -- -j12 -l12
+[0.550s] Invoked command in '/home/aihemel/ros2_ws/build/robot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_gazebo -- -j12 -l12
+[0.559s] Invoking command in '/home/aihemel/ros2_ws/build/robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/robot_gazebo
+[0.564s] -- Install configuration: ""
+[0.564s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/model
+[0.564s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/model/robot.sdf
+[0.564s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/launch
+[0.564s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/launch/robot_obstacle_world.launch.py
+[0.564s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/launch/robot_empty_world.launch.py
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/worlds
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/worlds/obstacle.world
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/ament_index/resource_index/package_run_dependencies/robot_gazebo
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/ament_index/resource_index/parent_prefix_path/robot_gazebo
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/environment/ament_prefix_path.sh
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/environment/ament_prefix_path.dsv
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/environment/path.sh
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/environment/path.dsv
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/local_setup.bash
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/local_setup.sh
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/local_setup.zsh
+[0.565s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/local_setup.dsv
+[0.566s] -- Installing: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/package.dsv
+[0.566s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/ament_index/resource_index/packages/robot_gazebo
+[0.566s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/cmake/robot_gazeboConfig.cmake
+[0.566s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/cmake/robot_gazeboConfig-version.cmake
+[0.566s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_gazebo/share/robot_gazebo/package.xml
+[0.606s] Invoked command in '/home/aihemel/ros2_ws/build/robot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/robot_gazebo

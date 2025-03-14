@@ -121,6 +121,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/bumperbot_localization" TYPE PROGRAM FILES
     "/home/aihemel/ros2_ws/src/bumperbot_localization/bumperbot_localization/kalman_filter.py"
     "/home/aihemel/ros2_ws/src/bumperbot_localization/bumperbot_localization/imu_republisher.py"
+    "/home/aihemel/ros2_ws/src/bumperbot_localization/bumperbot_localization/odometry_motion_model.py"
     )
 endif()
 

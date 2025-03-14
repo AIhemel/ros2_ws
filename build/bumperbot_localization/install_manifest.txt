@@ -7,6 +7,7 @@
 /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/__init__.py
 /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/imu_republisher.py
 /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/kalman_filter.py
+/home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/odometry_motion_model.py
 /home/aihemel/ros2_ws/install/bumperbot_localization/include/include/bumperbot_localization/kalman_filter.hpp
 /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/kalman_filter
 /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/imu_republisher
@@ -14,6 +15,7 @@
 /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/config/ekf.yaml
 /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/kalman_filter.py
 /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/imu_republisher.py
+/home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/odometry_motion_model.py
 /home/aihemel/ros2_ws/install/bumperbot_localization/share/ament_index/resource_index/package_run_dependencies/bumperbot_localization
 /home/aihemel/ros2_ws/install/bumperbot_localization/share/ament_index/resource_index/parent_prefix_path/bumperbot_localization
 /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/ament_prefix_path.sh

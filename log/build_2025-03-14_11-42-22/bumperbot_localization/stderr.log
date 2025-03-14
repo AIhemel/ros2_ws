@@ -1,0 +1,17 @@
+[33mCMake Warning at CMakeLists.txt:15 (find_package):
+  By not providing "Findgeometry_msgs_REQUIRED.cmake" in CMAKE_MODULE_PATH
+  this project has asked CMake to find a package configuration file provided
+  by "geometry_msgs_REQUIRED", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "geometry_msgs_REQUIRED" with any of the following names:
+
+    geometry_msgs_REQUIREDConfig.cmake
+    geometry_msgs_required-config.cmake
+
+  Add the installation prefix of "geometry_msgs_REQUIRED" to
+  CMAKE_PREFIX_PATH or set "geometry_msgs_REQUIRED_DIR" to a directory
+  containing one of the above files.  If "geometry_msgs_REQUIRED" provides a
+  separate development package or SDK, be sure it has been installed.
+
+[0m

@@ -1,0 +1,89 @@
+[0.024s] Invoking command in '/home/aihemel/ros2_ws/build/bumperbot_localization': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/bumperbot_localization -- -j12 -l12
+[0.548s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.548s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.548s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.548s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.548s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.548s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.548s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.548s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.549s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.549s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.591s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[0.592s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.677s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.737s] [33mCMake Warning at CMakeLists.txt:15 (find_package):
+[0.737s]   By not providing "Findgeometry_msgs_REQUIRED.cmake" in CMAKE_MODULE_PATH
+[0.737s]   this project has asked CMake to find a package configuration file provided
+[0.737s]   by "geometry_msgs_REQUIRED", but CMake did not find one.
+[0.737s] 
+[0.737s]   Could not find a package configuration file provided by
+[0.737s]   "geometry_msgs_REQUIRED" with any of the following names:
+[0.738s] 
+[0.738s]     geometry_msgs_REQUIREDConfig.cmake
+[0.738s]     geometry_msgs_required-config.cmake
+[0.738s] 
+[0.738s]   Add the installation prefix of "geometry_msgs_REQUIRED" to
+[0.738s]   CMAKE_PREFIX_PATH or set "geometry_msgs_REQUIRED_DIR" to a directory
+[0.738s]   containing one of the above files.  If "geometry_msgs_REQUIRED" provides a
+[0.738s]   separate development package or SDK, be sure it has been installed.
+[0.738s] 
+[0.738s] [0m
+[0.896s] -- Configuring done (0.9s)
+[0.928s] -- Generating done (0.0s)
+[0.938s] -- Build files have been written to: /home/aihemel/ros2_ws/build/bumperbot_localization
+[0.973s] [  0%] Built target ament_cmake_python_copy_bumperbot_localization
+[0.987s] [ 50%] Built target imu_republisher
+[0.993s] [100%] Built target kalman_filter
+[1.442s] running egg_info
+[1.442s] writing bumperbot_localization.egg-info/PKG-INFO
+[1.442s] writing dependency_links to bumperbot_localization.egg-info/dependency_links.txt
+[1.443s] writing top-level names to bumperbot_localization.egg-info/top_level.txt
+[1.448s] reading manifest file 'bumperbot_localization.egg-info/SOURCES.txt'
+[1.449s] writing manifest file 'bumperbot_localization.egg-info/SOURCES.txt'
+[1.481s] [100%] Built target ament_cmake_python_build_bumperbot_localization_egg
+[1.487s] Invoked command in '/home/aihemel/ros2_ws/build/bumperbot_localization' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/bumperbot_localization -- -j12 -l12
+[1.489s] Invoking command in '/home/aihemel/ros2_ws/build/bumperbot_localization': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/bumperbot_localization
+[1.492s] -- Install configuration: ""
+[1.492s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/pythonpath.sh
+[1.493s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/pythonpath.dsv
+[1.493s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization-0.0.0-py3.10.egg-info
+[1.493s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.493s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization-0.0.0-py3.10.egg-info/top_level.txt
+[1.493s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.493s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization-0.0.0-py3.10.egg-info/PKG-INFO
+[1.493s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization
+[1.494s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/__init__.py
+[1.494s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/imu_republisher.py
+[1.494s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/kalman_filter.py
+[1.494s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/odometry_motion_model.py
+[1.540s] Listing '/home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization'...
+[1.540s] Compiling '/home/aihemel/ros2_ws/install/bumperbot_localization/local/lib/python3.10/dist-packages/bumperbot_localization/odometry_motion_model.py'...
+[1.546s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/include/include
+[1.546s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/include/include/bumperbot_localization
+[1.546s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/include/include/bumperbot_localization/kalman_filter.hpp
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/kalman_filter
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/imu_republisher
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/launch
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/launch/local_localization.launch.py
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/config
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/config/ekf.yaml
+[1.547s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/kalman_filter.py
+[1.548s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/imu_republisher.py
+[1.548s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/lib/bumperbot_localization/odometry_motion_model.py
+[1.548s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/ament_index/resource_index/package_run_dependencies/bumperbot_localization
+[1.548s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/ament_index/resource_index/parent_prefix_path/bumperbot_localization
+[1.548s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/ament_prefix_path.sh
+[1.548s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/ament_prefix_path.dsv
+[1.548s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/path.sh
+[1.549s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/environment/path.dsv
+[1.549s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/local_setup.bash
+[1.549s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/local_setup.sh
+[1.549s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/local_setup.zsh
+[1.550s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/local_setup.dsv
+[1.550s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/package.dsv
+[1.550s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/ament_index/resource_index/packages/bumperbot_localization
+[1.551s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/cmake/bumperbot_localizationConfig.cmake
+[1.551s] -- Up-to-date: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/cmake/bumperbot_localizationConfig-version.cmake
+[1.551s] -- Installing: /home/aihemel/ros2_ws/install/bumperbot_localization/share/bumperbot_localization/package.xml
+[1.552s] Invoked command in '/home/aihemel/ros2_ws/build/bumperbot_localization' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/bumperbot_localization

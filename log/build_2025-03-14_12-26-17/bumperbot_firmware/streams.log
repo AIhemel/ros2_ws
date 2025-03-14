@@ -1,0 +1,34 @@
+[0.025s] Invoking command in '/home/aihemel/ros2_ws/build/bumperbot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/bumperbot_firmware -- -j12 -l12
+[0.547s] [ 16%] [32mBuilding CXX object CMakeFiles/simple_serial_receiver.dir/src/simple_serial_receiver.cpp.o[0m
+[0.548s] [ 33%] [32mBuilding CXX object CMakeFiles/bumperbot_firmware.dir/src/bumperbot_interface.cpp.o[0m
+[0.548s] [ 33%] Built target ament_cmake_python_copy_bumperbot_firmware
+[0.548s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_serial_transmitter.dir/src/simple_serial_transmitter.cpp.o[0m
+[0.548s] running egg_info
+[0.548s] writing bumperbot_firmware.egg-info/PKG-INFO
+[0.548s] writing dependency_links to bumperbot_firmware.egg-info/dependency_links.txt
+[0.548s] writing top-level names to bumperbot_firmware.egg-info/top_level.txt
+[0.548s] reading manifest file 'bumperbot_firmware.egg-info/SOURCES.txt'
+[0.548s] writing manifest file 'bumperbot_firmware.egg-info/SOURCES.txt'
+[0.548s] [ 50%] Built target ament_cmake_python_build_bumperbot_firmware_egg
+[0.549s] [01m[K/home/aihemel/ros2_ws/src/bumperbot_firmware/src/simple_serial_transmitter.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Klibserial/SerialPort.h: No such file or directory
+[0.549s]     4 | #include [01;31m[K<libserial/SerialPort.h>[m[K
+[0.549s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.549s] compilation terminated.
+[0.549s] gmake[2]: *** [CMakeFiles/simple_serial_transmitter.dir/build.make:76: CMakeFiles/simple_serial_transmitter.dir/src/simple_serial_transmitter.cpp.o] Error 1
+[0.549s] gmake[1]: *** [CMakeFiles/Makefile2:248: CMakeFiles/simple_serial_transmitter.dir/all] Error 2
+[0.549s] gmake[1]: *** Waiting for unfinished jobs....
+[0.549s] In file included from [01m[K/home/aihemel/ros2_ws/src/bumperbot_firmware/src/bumperbot_interface.cpp:1[m[K:
+[0.549s] [01m[K/home/aihemel/ros2_ws/src/bumperbot_firmware/include/bumperbot_firmware/bumperbot_interface.hpp:6:10:[m[K [01;31m[Kfatal error: [m[Klibserial/SerialPort.h: No such file or directory
+[0.549s]     6 | #include [01;31m[K<libserial/SerialPort.h>[m[K
+[0.549s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.549s] compilation terminated.
+[0.549s] gmake[2]: *** [CMakeFiles/bumperbot_firmware.dir/build.make:76: CMakeFiles/bumperbot_firmware.dir/src/bumperbot_interface.cpp.o] Error 1
+[0.550s] gmake[1]: *** [CMakeFiles/Makefile2:196: CMakeFiles/bumperbot_firmware.dir/all] Error 2
+[0.550s] [01m[K/home/aihemel/ros2_ws/src/bumperbot_firmware/src/simple_serial_receiver.cpp:6:10:[m[K [01;31m[Kfatal error: [m[Klibserial/SerialPort.h: No such file or directory
+[0.550s]     6 | #include [01;31m[K<libserial/SerialPort.h>[m[K
+[0.550s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.550s] compilation terminated.
+[0.550s] gmake[2]: *** [CMakeFiles/simple_serial_receiver.dir/build.make:76: CMakeFiles/simple_serial_receiver.dir/src/simple_serial_receiver.cpp.o] Error 1
+[0.550s] gmake[1]: *** [CMakeFiles/Makefile2:222: CMakeFiles/simple_serial_receiver.dir/all] Error 2
+[0.550s] gmake: *** [Makefile:146: all] Error 2
+[0.559s] Invoked command in '/home/aihemel/ros2_ws/build/bumperbot_firmware' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/bumperbot_firmware -- -j12 -l12

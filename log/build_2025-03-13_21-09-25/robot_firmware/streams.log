@@ -1,0 +1,20 @@
+[0.386s] Invoking command in '/home/aihemel/ros2_ws/build/robot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_firmware -- -j12 -l12
+[0.401s] Invoked command in '/home/aihemel/ros2_ws/build/robot_firmware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/aihemel/ros2_ws/build/robot_firmware -- -j12 -l12
+[0.403s] Invoking command in '/home/aihemel/ros2_ws/build/robot_firmware': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/robot_firmware
+[0.406s] -- Install configuration: ""
+[0.406s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/ament_index/resource_index/package_run_dependencies/robot_firmware
+[0.406s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/ament_index/resource_index/parent_prefix_path/robot_firmware
+[0.406s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/ament_prefix_path.sh
+[0.406s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/ament_prefix_path.dsv
+[0.407s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/path.sh
+[0.408s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/environment/path.dsv
+[0.409s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.bash
+[0.410s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.sh
+[0.410s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.zsh
+[0.410s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/local_setup.dsv
+[0.410s] -- Installing: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/package.dsv
+[0.410s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/ament_index/resource_index/packages/robot_firmware
+[0.410s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/cmake/robot_firmwareConfig.cmake
+[0.411s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/cmake/robot_firmwareConfig-version.cmake
+[0.411s] -- Up-to-date: /home/aihemel/ros2_ws/install/robot_firmware/share/robot_firmware/package.xml
+[0.412s] Invoked command in '/home/aihemel/ros2_ws/build/robot_firmware' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/aihemel/ros2_ws/build/robot_firmware
